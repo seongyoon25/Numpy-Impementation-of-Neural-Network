@@ -1,3 +1,3 @@
 # Numpy-Impementation-of-Neural-Network
 
-Constructing Neural Network via Numpy
+Constructing Feedforward Neural Network via Numpy
